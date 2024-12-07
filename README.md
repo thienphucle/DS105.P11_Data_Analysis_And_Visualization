@@ -3,7 +3,6 @@ This is the Final Project of DS105
 
 Tên dự án: PHÂN TÍCH SỰ ẢNH HƯỞNG CỦA KHÍ HẬU VÀ MÔI TRƯỜNG ĐẾN TẦN SUẤT VÀ CƯỜNG ĐỘ THIÊN TAI CỦA CÁC QUỐC GIA CHÂU Á
 
-Giáo viên hướng dẫn: Thầy Phạm Thế Sơn
 
 Thành viên: 
 * Nguyễn Thành Đạt _ 22520224
