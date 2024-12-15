@@ -1,0 +1,288 @@
+Country,ISO3,Indicator,Unit,2018,2019,2020,2021,2022
+Armenia,ARM,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Armenia,ARM,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Armenia,ARM,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+Armenia,ARM,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Armenia,ARM,Storm,Number of,1.0,1.0,1.0,0.0,0.0
+Armenia,ARM,TOTAL,Number of,1.0,1.0,1.0,0.0,0.0
+Bangladesh,BGD,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Bangladesh,BGD,Extreme temperature,Number of,1.0,1.0,0.0,0.0,0.0
+Bangladesh,BGD,Flood,Number of,2.0,1.0,1.0,1.0,1.0
+Bangladesh,BGD,Landslide,Number of,0.0,1.0,0.0,0.0,0.0
+Bangladesh,BGD,Storm,Number of,1.0,3.0,1.0,1.0,1.0
+Bangladesh,BGD,TOTAL,Number of,4.0,6.0,2.0,2.0,2.0
+Bhutan,BTN,Flood,Number of,0.0,0.0,0.0,1.0,0.0
+Bhutan,BTN,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Bhutan,BTN,TOTAL,Number of,0.0,0.0,0.0,1.0,0.0
+Bhutan,BTN,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Brunei Darussalam,BRN,TOTAL,Number of,0.0,0.0,0.0,0.0,0.0
+Brunei Darussalam,BRN,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Cambodia,KHM,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Cambodia,KHM,Flood,Number of,1.0,1.0,0.0,3.0,1.0
+Cambodia,KHM,Storm,Number of,0.0,0.0,2.0,1.0,1.0
+Cambodia,KHM,TOTAL,Number of,1.0,1.0,2.0,4.0,2.0
+China,CHN,Drought,Number of,0.0,0.0,0.0,1.0,1.0
+China,CHN,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+China,CHN,Flood,Number of,8.0,6.0,5.0,4.0,4.0
+China,CHN,Landslide,Number of,0.0,2.0,1.0,0.0,1.0
+China,CHN,Storm,Number of,12.0,4.0,4.0,7.0,1.0
+China,CHN,TOTAL,Number of,20.0,13.0,11.0,12.0,7.0
+China,CHN,Wildfire,Number of,0.0,1.0,1.0,0.0,0.0
+Cyprus,CYP,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Cyprus,CYP,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Cyprus,CYP,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Cyprus,CYP,TOTAL,Number of,0.0,0.0,0.0,1.0,0.0
+Cyprus,CYP,Wildfire,Number of,0.0,0.0,0.0,1.0,0.0
+Georgia,GEO,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Georgia,GEO,Flood,Number of,1.0,1.0,1.0,1.0,1.0
+Georgia,GEO,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Georgia,GEO,TOTAL,Number of,1.0,1.0,1.0,1.0,1.0
+India,IND,Drought,Number of,1.0,0.0,0.0,0.0,0.0
+India,IND,Extreme temperature,Number of,1.0,2.0,0.0,0.0,1.0
+India,IND,Flood,Number of,9.0,5.0,5.0,9.0,3.0
+India,IND,Landslide,Number of,0.0,0.0,2.0,2.0,1.0
+India,IND,Storm,Number of,11.0,5.0,4.0,5.0,2.0
+India,IND,TOTAL,Number of,23.0,12.0,11.0,16.0,7.0
+India,IND,Wildfire,Number of,1.0,0.0,0.0,0.0,0.0
+Indonesia,IDN,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Indonesia,IDN,Flood,Number of,6.0,11.0,25.0,18.0,13.0
+Indonesia,IDN,Landslide,Number of,2.0,2.0,1.0,2.0,0.0
+Indonesia,IDN,Storm,Number of,0.0,0.0,0.0,1.0,0.0
+Indonesia,IDN,TOTAL,Number of,8.0,14.0,26.0,21.0,13.0
+Indonesia,IDN,Wildfire,Number of,0.0,1.0,0.0,0.0,0.0
+Iran,IRN,Drought,Number of,0.0,0.0,0.0,1.0,0.0
+Iran,IRN,Flood,Number of,1.0,3.0,6.0,1.0,3.0
+Iran,IRN,Landslide,Number of,0.0,0.0,1.0,0.0,0.0
+Iran,IRN,Storm,Number of,0.0,0.0,0.0,2.0,0.0
+Iran,IRN,TOTAL,Number of,1.0,3.0,7.0,4.0,3.0
+Iran,IRN,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Iraq,IRQ,Drought,Number of,0.0,0.0,0.0,1.0,0.0
+Iraq,IRQ,Flood,Number of,1.0,1.0,1.0,2.0,0.0
+Iraq,IRQ,Storm,Number of,0.0,0.0,0.0,0.0,1.0
+Iraq,IRQ,TOTAL,Number of,1.0,1.0,1.0,3.0,1.0
+Israel,ISR,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Israel,ISR,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Israel,ISR,Flood,Number of,1.0,0.0,1.0,0.0,0.0
+Israel,ISR,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Israel,ISR,TOTAL,Number of,1.0,0.0,2.0,0.0,0.0
+Israel,ISR,Wildfire,Number of,0.0,0.0,1.0,0.0,0.0
+Japan,JPN,Extreme temperature,Number of,1.0,2.0,0.0,0.0,1.0
+Japan,JPN,Flood,Number of,1.0,3.0,1.0,2.0,1.0
+Japan,JPN,Landslide,Number of,0.0,0.0,0.0,1.0,0.0
+Japan,JPN,Storm,Number of,3.0,4.0,3.0,1.0,4.0
+Japan,JPN,TOTAL,Number of,5.0,9.0,4.0,4.0,6.0
+Japan,JPN,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Jordan,JOR,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Jordan,JOR,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Jordan,JOR,Flood,Number of,2.0,0.0,0.0,0.0,0.0
+Jordan,JOR,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Jordan,JOR,TOTAL,Number of,2.0,0.0,0.0,0.0,0.0
+Kazakhstan,KAZ,Drought,Number of,0.0,0.0,0.0,1.0,0.0
+Kazakhstan,KAZ,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Kazakhstan,KAZ,Flood,Number of,1.0,0.0,1.0,0.0,0.0
+Kazakhstan,KAZ,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Kazakhstan,KAZ,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Kazakhstan,KAZ,TOTAL,Number of,1.0,0.0,1.0,1.0,0.0
+Kazakhstan,KAZ,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+North Korea,PRK,Drought,Number of,0.0,1.0,0.0,0.0,0.0
+North Korea,PRK,Extreme temperature,Number of,1.0,0.0,0.0,0.0,0.0
+North Korea,PRK,Flood,Number of,1.0,0.0,1.0,1.0,0.0
+North Korea,PRK,Storm,Number of,1.0,1.0,0.0,0.0,0.0
+North Korea,PRK,TOTAL,Number of,3.0,2.0,1.0,1.0,0.0
+South Korea,KOR,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+South Korea,KOR,Extreme temperature,Number of,1.0,0.0,0.0,0.0,1.0
+South Korea,KOR,Flood,Number of,0.0,0.0,2.0,0.0,1.0
+South Korea,KOR,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+South Korea,KOR,Storm,Number of,0.0,3.0,3.0,1.0,1.0
+South Korea,KOR,TOTAL,Number of,1.0,4.0,5.0,1.0,4.0
+South Korea,KOR,Wildfire,Number of,0.0,1.0,0.0,0.0,1.0
+Kyrgyzstan,KGZ,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Kyrgyzstan,KGZ,Extreme temperature,Number of,0.0,0.0,0.0,0.0,1.0
+Kyrgyzstan,KGZ,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+Kyrgyzstan,KGZ,Landslide,Number of,0.0,0.0,0.0,1.0,0.0
+Kyrgyzstan,KGZ,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Kyrgyzstan,KGZ,TOTAL,Number of,0.0,0.0,0.0,1.0,1.0
+Laos,LAO,Drought,Number of,0.0,1.0,0.0,0.0,0.0
+Laos,LAO,Flood,Number of,1.0,1.0,0.0,0.0,1.0
+Laos,LAO,Storm,Number of,2.0,0.0,2.0,1.0,0.0
+Laos,LAO,TOTAL,Number of,3.0,2.0,2.0,1.0,1.0
+Lebanon,LBN,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Lebanon,LBN,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+Lebanon,LBN,Storm,Number of,1.0,1.0,0.0,0.0,0.0
+Lebanon,LBN,TOTAL,Number of,1.0,1.0,1.0,0.0,0.0
+Lebanon,LBN,Wildfire,Number of,0.0,0.0,1.0,0.0,0.0
+Malaysia,MYS,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Malaysia,MYS,Flood,Number of,2.0,4.0,5.0,8.0,5.0
+Malaysia,MYS,Landslide,Number of,0.0,0.0,0.0,0.0,1.0
+Malaysia,MYS,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Malaysia,MYS,TOTAL,Number of,2.0,4.0,5.0,8.0,6.0
+Malaysia,MYS,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Maldives,MDV,Flood,Number of,0.0,1.0,0.0,0.0,0.0
+Maldives,MDV,Storm,Number of,0.0,0.0,0.0,1.0,0.0
+Maldives,MDV,TOTAL,Number of,0.0,1.0,0.0,1.0,0.0
+Mongolia,MNG,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Mongolia,MNG,Extreme temperature,Number of,1.0,1.0,0.0,0.0,1.0
+Mongolia,MNG,Flood,Number of,1.0,1.0,3.0,1.0,1.0
+Mongolia,MNG,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Mongolia,MNG,Storm,Number of,1.0,1.0,1.0,1.0,0.0
+Mongolia,MNG,TOTAL,Number of,3.0,3.0,4.0,2.0,2.0
+Mongolia,MNG,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Myanmar,MMR,Flood,Number of,3.0,2.0,1.0,1.0,0.0
+Myanmar,MMR,Landslide,Number of,1.0,1.0,1.0,0.0,0.0
+Myanmar,MMR,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Myanmar,MMR,TOTAL,Number of,4.0,3.0,2.0,1.0,0.0
+Myanmar,MMR,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Nepal,NPL,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Nepal,NPL,Extreme temperature,Number of,1.0,0.0,0.0,0.0,0.0
+Nepal,NPL,Flood,Number of,1.0,1.0,1.0,4.0,2.0
+Nepal,NPL,Landslide,Number of,0.0,0.0,0.0,0.0,1.0
+Nepal,NPL,Storm,Number of,0.0,1.0,0.0,0.0,1.0
+Nepal,NPL,TOTAL,Number of,2.0,2.0,1.0,4.0,4.0
+Nepal,NPL,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Oman,OMN,Flood,Number of,0.0,1.0,1.0,0.0,0.0
+Oman,OMN,Storm,Number of,2.0,0.0,0.0,2.0,0.0
+Oman,OMN,TOTAL,Number of,2.0,1.0,1.0,2.0,0.0
+Pakistan,PAK,Drought,Number of,0.0,1.0,0.0,0.0,0.0
+Pakistan,PAK,Extreme temperature,Number of,1.0,0.0,0.0,0.0,1.0
+Pakistan,PAK,Flood,Number of,1.0,8.0,4.0,4.0,1.0
+Pakistan,PAK,Landslide,Number of,0.0,0.0,1.0,0.0,0.0
+Pakistan,PAK,Storm,Number of,0.0,1.0,1.0,2.0,1.0
+Pakistan,PAK,TOTAL,Number of,2.0,10.0,6.0,6.0,4.0
+Pakistan,PAK,Wildfire,Number of,0.0,0.0,0.0,0.0,1.0
+Philippines,PHL,Drought,Number of,0.0,1.0,0.0,0.0,0.0
+Philippines,PHL,Flood,Number of,1.0,1.0,0.0,5.0,2.0
+Philippines,PHL,Landslide,Number of,0.0,0.0,1.0,0.0,1.0
+Philippines,PHL,Storm,Number of,7.0,7.0,6.0,8.0,6.0
+Philippines,PHL,TOTAL,Number of,8.0,9.0,7.0,13.0,9.0
+Philippines,PHL,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Qatar,QAT,Flood,Number of,1.0,0.0,0.0,0.0,0.0
+Qatar,QAT,TOTAL,Number of,1.0,0.0,0.0,0.0,0.0
+Saudi Arabia,SAU,Flood,Number of,0.0,3.0,1.0,0.0,0.0
+Saudi Arabia,SAU,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Saudi Arabia,SAU,TOTAL,Number of,0.0,3.0,1.0,0.0,0.0
+Sri Lanka,LKA,Drought,Number of,0.0,1.0,0.0,0.0,0.0
+Sri Lanka,LKA,Flood,Number of,3.0,5.0,2.0,4.0,3.0
+Sri Lanka,LKA,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Sri Lanka,LKA,Storm,Number of,0.0,0.0,1.0,1.0,2.0
+Sri Lanka,LKA,TOTAL,Number of,3.0,6.0,3.0,5.0,5.0
+Syrian Arab Republic,SYR,Drought,Number of,0.0,0.0,0.0,1.0,0.0
+Syrian Arab Republic,SYR,Flood,Number of,0.0,1.0,0.0,1.0,0.0
+Syrian Arab Republic,SYR,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Syrian Arab Republic,SYR,Storm,Number of,0.0,0.0,0.0,0.0,1.0
+Syrian Arab Republic,SYR,TOTAL,Number of,0.0,1.0,1.0,2.0,1.0
+Syrian Arab Republic,SYR,Wildfire,Number of,0.0,0.0,1.0,0.0,0.0
+Thailand,THA,Drought,Number of,0.0,1.0,0.0,0.0,0.0
+Thailand,THA,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Thailand,THA,Flood,Number of,0.0,1.0,3.0,5.0,9.0
+Thailand,THA,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Thailand,THA,Storm,Number of,0.0,1.0,4.0,1.0,2.0
+Thailand,THA,TOTAL,Number of,0.0,3.0,7.0,6.0,11.0
+Thailand,THA,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Timor-Leste,TLS,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Timor-Leste,TLS,Flood,Number of,0.0,0.0,1.0,0.0,0.0
+Timor-Leste,TLS,Storm,Number of,0.0,0.0,0.0,1.0,0.0
+Timor-Leste,TLS,TOTAL,Number of,0.0,0.0,1.0,1.0,0.0
+Türkiye,TUR,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Türkiye,TUR,Flood,Number of,0.0,3.0,3.0,2.0,3.0
+Türkiye,TUR,Landslide,Number of,1.0,0.0,1.0,0.0,0.0
+Türkiye,TUR,Storm,Number of,0.0,0.0,1.0,0.0,0.0
+Türkiye,TUR,TOTAL,Number of,1.0,3.0,5.0,3.0,3.0
+Türkiye,TUR,Wildfire,Number of,0.0,0.0,0.0,1.0,0.0
+Turkmenistan,TKM,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+Turkmenistan,TKM,TOTAL,Number of,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,ARE,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,ARE,TOTAL,Number of,0.0,0.0,0.0,0.0,0.0
+Uzbekistan,UZB,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Uzbekistan,UZB,Flood,Number of,0.0,0.0,1.0,0.0,1.0
+Uzbekistan,UZB,Landslide,Number of,0.0,0.0,0.0,1.0,0.0
+Uzbekistan,UZB,TOTAL,Number of,0.0,0.0,1.0,1.0,1.0
+Viet Nam,VNM,Drought,Number of,0.0,1.0,0.0,0.0,0.0
+Viet Nam,VNM,Flood,Number of,3.0,5.0,1.0,3.0,5.0
+Viet Nam,VNM,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Viet Nam,VNM,Storm,Number of,4.0,2.0,10.0,5.0,3.0
+Viet Nam,VNM,TOTAL,Number of,7.0,8.0,11.0,8.0,8.0
+Viet Nam,VNM,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Armenia,ARM,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Bangladesh,BGD,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Bhutan,BTN,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Bhutan,BTN,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Bhutan,BTN,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Brunei Darussalam,BRN,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Brunei Darussalam,BRN,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+Brunei Darussalam,BRN,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Brunei Darussalam,BRN,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Brunei Darussalam,BRN,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Cambodia,KHM,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Cambodia,KHM,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Cambodia,KHM,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Cyprus,CYP,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Cyprus,CYP,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+Georgia,GEO,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Georgia,GEO,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Georgia,GEO,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Indonesia,IDN,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Iran,IRN,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Iraq,IRQ,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Iraq,IRQ,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Iraq,IRQ,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Israel,ISR,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Japan,JPN,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Jordan,JOR,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Jordan,JOR,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+North Korea,PRK,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+North Korea,PRK,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Kyrgyzstan,KGZ,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Laos,LAO,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Laos,LAO,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Laos,LAO,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Lebanon,LBN,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Lebanon,LBN,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Malaysia,MYS,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Maldives,MDV,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Maldives,MDV,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Maldives,MDV,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Maldives,MDV,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Myanmar,MMR,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Myanmar,MMR,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Oman,OMN,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Oman,OMN,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Oman,OMN,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Oman,OMN,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Philippines,PHL,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Qatar,QAT,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Qatar,QAT,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Qatar,QAT,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Qatar,QAT,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Qatar,QAT,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Saudi Arabia,SAU,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Saudi Arabia,SAU,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Saudi Arabia,SAU,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Saudi Arabia,SAU,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Sri Lanka,LKA,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Sri Lanka,LKA,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Syrian Arab Republic,SYR,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Timor-Leste,TLS,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Timor-Leste,TLS,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Timor-Leste,TLS,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Türkiye,TUR,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Turkmenistan,TKM,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Turkmenistan,TKM,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Turkmenistan,TKM,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Turkmenistan,TKM,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Turkmenistan,TKM,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,ARE,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,ARE,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,ARE,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,ARE,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,ARE,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Uzbekistan,UZB,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
+Uzbekistan,UZB,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Uzbekistan,UZB,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Viet Nam,VNM,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Singapore,SGP,Drought,Number of,0.0,0.0,0.0,0.0,0.0
+Singapore,SGP,Extreme temperature,Number of,0.0,0.0,0.0,0.0,0.0
+Singapore,SGP,Flood,Number of,0.0,0.0,0.0,0.0,0.0
+Singapore,SGP,Landslide,Number of,0.0,0.0,0.0,0.0,0.0
+Singapore,SGP,Storm,Number of,0.0,0.0,0.0,0.0,0.0
+Singapore,SGP,TOTAL,Number of,0.0,0.0,0.0,0.0,0.0
+Singapore,SGP,Wildfire,Number of,0.0,0.0,0.0,0.0,0.0
