@@ -1,124 +1,164 @@
 Country,ISO3,Indicator,Unit,2018,2019,2020,2021,2022
 Armenia,ARM,Carbon stocks in forests,Million tonnes,15.4052,15.3954,15.3855,,
 Armenia,ARM,Forest area,1000 HA,328.89,328.68,328.47,328.26,328.05
+Armenia,ARM,Index of carbon stocks in forests,Index,96.5909874662202,96.5295412222787,96.4674679758479,,
 Armenia,ARM,Share of forest area,Percent,11.5521601685985,11.5447839831401,11.5374077976818,11.5300316122234,11.522655426765
 Bangladesh,BGD,Carbon stocks in forests,Million tonnes,81.9844,81.9844,81.9844,,
 Bangladesh,BGD,Forest area,1000 HA,1883.4,1883.4,1883.4,1883.4,1883.4
+Bangladesh,BGD,Index of carbon stocks in forests,Index,98.0769667874519,98.0769667874519,98.0769667874519,,
 Bangladesh,BGD,Share of forest area,Percent,14.4687716063609,14.4687716063609,14.4687716063609,14.4687716063609,14.4687716063609
 Bhutan,BTN,Carbon stocks in forests,Million tonnes,494.0738,494.4333,494.7928,,
 Bhutan,BTN,Forest area,1000 HA,2721.12,2723.1,2725.08,2727.06,2729.04
+Bhutan,BTN,Index of carbon stocks in forests,Index,107.699916991898,107.778282046185,107.856647100471,,
 Bhutan,BTN,Share of forest area,Percent,71.3455689564761,71.3974829575249,71.4493969585737,71.5013109596224,71.5532249606712
 Brunei Darussalam,BRN,Carbon stocks in forests,Million tonnes,54.701,54.701,54.701,,
 Brunei Darussalam,BRN,Forest area,1000 HA,380.0,380.0,380.0,380.0,380.0
+Brunei Darussalam,BRN,Index of carbon stocks in forests,Index,92.7281757972019,92.7281757972019,92.7281757972019,,
 Brunei Darussalam,BRN,Share of forest area,Percent,72.1062618595825,72.1062618595825,72.1062618595825,72.1062618595825,72.1062618595825
 Cambodia,KHM,Carbon stocks in forests,Million tonnes,425.7751,417.8645,409.9539,,
 Cambodia,KHM,Forest area,1000 HA,8379.75,8224.06,8068.37,7912.68,7756.99
+Cambodia,KHM,Index of carbon stocks in forests,Index,76.4573537672084,75.0368302497202,73.616306732232,,
 Cambodia,KHM,Share of forest area,Percent,47.4719578518015,46.589961477453,45.7079651031045,44.825968728756,43.9439723544074
 China,CHN,Carbon stocks in forests,Million tonnes,8387.1366,8553.8275,8724.3346,,
 China,CHN,Forest area,1000 HA,216219.04,218098.61,219978.18,221857.75,223737.32
+China,CHN,Index of carbon stocks in forests,Index,161.648072686984,164.860761832819,168.147001870265,,
 China,CHN,Share of forest area,Percent,23.0309121760165,23.2311175399783,23.4313229039402,23.631528267902,23.8317336318638
 Cyprus,CYP,Carbon stocks in forests,Million tonnes,4.2176,4.2827,4.3529,,
 Cyprus,CYP,Forest area,1000 HA,172.57,172.55,172.53,172.51,172.49
+Cyprus,CYP,Index of carbon stocks in forests,Index,155.590806802671,157.992400486959,160.58213745527,,
 Cyprus,CYP,Share of forest area,Percent,18.6764069264069,18.6742424242424,18.6720779220779,18.6699134199134,18.6677489177489
 Georgia,GEO,Carbon stocks in forests,Million tonnes,212.3009,212.3009,212.3009,,
 Georgia,GEO,Forest area,1000 HA,2822.4,2822.4,2822.4,2822.4,2822.4
+Georgia,GEO,Index of carbon stocks in forests,Index,130.362397331604,130.362397331604,130.362397331604,,
 Georgia,GEO,Share of forest area,Percent,40.6159159591308,40.6159159591308,40.6159159591308,40.6159159591308,40.6159159591308
 India,IND,Carbon stocks in forests,Million tonnes,2972.5288,2983.5844,2994.64,,
 India,IND,Forest area,1000 HA,71627.2,71893.6,72160.0,72426.4,72692.8
+India,IND,Index of carbon stocks in forests,Index,126.885644337841,127.357564720763,127.829485103684,,
 India,IND,Share of forest area,Percent,24.0910268095884,24.1806275414622,24.270228273336,24.3598290052099,24.4494297370837
 Indonesia,IDN,Carbon stocks in forests,Million tonnes,9735.8074,9672.6495,9609.4928,,
 Indonesia,IDN,Forest area,1000 HA,93344.27,92738.73,92133.2,91527.6633,90922.1311
+Indonesia,IDN,Index of carbon stocks in forests,Index,88.157103049579,87.5852123711854,87.0133325587138,,
 Indonesia,IDN,Share of forest area,Percent,49.7168177792076,49.3942964092507,49.0717803654717,48.3619448681206,48.0419900717626
 Iran,IRN,Carbon stocks in forests,Million tonnes,888.5199,888.5924,888.5345,,
 Iran,IRN,Forest area,1000 HA,10727.03,10743.47,10751.87,10765.63,10775.8167
+Iran,IRN,Index of carbon stocks in forests,Index,122.836790267065,122.846813303459,122.838808699221,,
 Iran,IRN,Share of forest area,Percent,6.61142064714946,6.6215531587057,6.62673035439137,6.63521109399075,6.64148949152542
 Iraq,IRQ,Carbon stocks in forests,Million tonnes,25.7482,25.6163,25.4677,,
 Iraq,IRQ,Forest area,1000 HA,825.0,825.0,825.0,825.0,825.0
+Iraq,IRQ,Index of carbon stocks in forests,Index,99.725783337852,99.2149192455169,98.6393741043418,,
 Iraq,IRQ,Share of forest area,Percent,1.90036118379833,1.90036118379833,1.90036118379833,1.90036118379833,1.90036118379833
 Israel,ISR,Carbon stocks in forests,Million tonnes,0.6244,0.6244,0.6244,,
 Israel,ISR,Forest area,1000 HA,140.0,140.0,140.0,140.0,140.0
+Israel,ISR,Index of carbon stocks in forests,Index,103.738162485463,103.738162485463,103.738162485463,,
 Israel,ISR,Share of forest area,Percent,6.46950092421442,6.46950092421442,6.46950092421442,6.46950092421442,6.46950092421442
 Japan,JPN,Carbon stocks in forests,Million tonnes,1770.385,1770.385,1770.385,,
 Japan,JPN,Forest area,1000 HA,24935.0,24935.0,24935.0,24935.0,24935.0
+Japan,JPN,Index of carbon stocks in forests,Index,148.547654128727,148.547654128727,148.547654128727,,
 Japan,JPN,Share of forest area,Percent,68.4087791495199,68.4087791495199,68.4087791495199,68.4087791495199,68.4087791495199
 Jordan,JOR,Carbon stocks in forests,Million tonnes,3.3374,3.3374,3.3374,,
 Jordan,JOR,Forest area,1000 HA,97.5,97.5,97.5,97.5,97.5
+Jordan,JOR,Index of carbon stocks in forests,Index,100.0,100.0,100.0,,
 Jordan,JOR,Share of forest area,Percent,1.09822031989187,1.09804716534901,1.09804716534901,1.09804716534901,1.09804716534901
 Kazakhstan,KAZ,Carbon stocks in forests,Million tonnes,172.7308,172.7449,172.734,,
 Kazakhstan,KAZ,Forest area,1000 HA,3396.2012,3425.44,3454.68,3483.9192,3513.1589
+Kazakhstan,KAZ,Index of carbon stocks in forests,Index,115.697180626891,115.706624977561,115.699324025624,,
 Kazakhstan,KAZ,Share of forest area,Percent,1.25799207319332,1.26882246175501,1.27965329481053,1.29048383153684,1.3013145534689
 North Korea,PRK,Carbon stocks in forests,Million tonnes,243.5093,242.6579,241.8066,,
 North Korea,PRK,Forest area,1000 HA,6072.55,6051.32,6030.09,6008.86,5987.63
+North Korea,PRK,Index of carbon stocks in forests,Index,90.6502408002826,90.333293500868,90.0163834280564,,
 North Korea,PRK,Share of forest area,Percent,50.432273067021,50.255958807408,50.079644547795,49.903330288182,49.7270160285691
 South Korea,KOR,Carbon stocks in forests,Million tonnes,521.5889,533.7967,545.5859,,
 South Korea,KOR,Forest area,1000 HA,6307.0,6297.0,6287.0,6277.0,6267.0
+South Korea,KOR,Index of carbon stocks in forests,Index,330.598925403861,338.336600729285,345.808954629783,,
 South Korea,KOR,Share of forest area,Percent,64.6739130434783,64.5184426229508,64.4159836065574,64.3135245901639,64.2110655737705
 Kyrgyzstan,KGZ,Carbon stocks in forests,Million tonnes,38.5077,39.5628,40.6321,,
 Kyrgyzstan,KGZ,Forest area,1000 HA,1278.9,1297.14,1315.38,1333.62,1351.86
+Kyrgyzstan,KGZ,Index of carbon stocks in forests,Index,117.002360848204,120.208192173651,123.457168987509,,
 Kyrgyzstan,KGZ,Share of forest area,Percent,6.66788321167883,6.76298227320125,6.85808133472367,6.95318039624609,7.04827945776851
 Laos,LAO,Carbon stocks in forests,Million tonnes,1142.0182,1139.6539,1137.2896,,
 Laos,LAO,Forest area,1000 HA,16664.5,16630.0,16595.5,16561.0,16526.5
+Laos,LAO,Index of carbon stocks in forests,Index,93.8348140839046,93.6405495345843,93.446284985264,,
 Laos,LAO,Share of forest area,Percent,72.2032062391681,72.053726169844,71.9042461005199,71.7547660311958,71.6052859618717
 Lebanon,LBN,Carbon stocks in forests,Million tonnes,5.0058,5.027,5.0481,,
 Lebanon,LBN,Forest area,1000 HA,142.13,142.73,143.33,143.93,144.53
+Lebanon,LBN,Index of carbon stocks in forests,Index,102.46868091378,102.902644722836,103.334561532793,,
 Lebanon,LBN,Share of forest area,Percent,13.8934506353861,13.9521016617791,14.010752688172,14.069403714565,14.128054740958
 Malaysia,MYS,Carbon stocks in forests,Million tonnes,2350.1059,2343.9721,2337.8382,,
 Malaysia,MYS,Forest area,1000 HA,19214.34,19164.19,19114.04,19063.89,19013.74
+Malaysia,MYS,Index of carbon stocks in forests,Index,93.0400692060235,92.7972336910385,92.5543942170799,,
 Malaysia,MYS,Share of forest area,Percent,58.4822401460965,58.3295997565059,58.1769593669152,58.0243189773246,57.871678587734
 Maldives,MDV,Carbon stocks in forests,Million tonnes,0.0645,0.0645,0.0645,,
 Maldives,MDV,Forest area,1000 HA,0.82,0.82,0.82,0.82,0.82
+Maldives,MDV,Index of carbon stocks in forests,Index,100.0,100.0,100.0,,
 Maldives,MDV,Share of forest area,Percent,2.73333333333333,2.73333333333333,2.73333333333333,2.73333333333333,2.73333333333333
 Mongolia,MNG,Carbon stocks in forests,Million tonnes,534.3975,534.3557,534.3138,,
 Mongolia,MNG,Forest area,1000 HA,14175.0,14173.89,14172.78,14171.67,14170.56
+Mongolia,MNG,Index of carbon stocks in forests,Index,98.8881324618653,98.8803975380737,98.8726441096797,,
 Mongolia,MNG,Share of forest area,Percent,9.10255545816196,9.10182513109581,9.09965848797644,9.09894465963877,9.09823321482806
 Myanmar,MMR,Carbon stocks in forests,Million tonnes,2200.5573,2178.3785,2155.92,,
 Myanmar,MMR,Forest area,1000 HA,29123.31,28833.6,28543.89,28254.18,27964.47
+Myanmar,MMR,Index of carbon stocks in forests,Index,74.8915657582556,74.1367546662476,73.3724245442454,,
 Myanmar,MMR,Share of forest area,Percent,44.6197487360196,44.1758847862724,43.7340309804342,43.2901466284646,42.846262276495
 Nepal,NPL,Carbon stocks in forests,Million tonnes,643.4819,643.4819,643.4819,,
 Nepal,NPL,Forest area,1000 HA,5962.03,5962.03,5962.03,5962.03,5962.03
+Nepal,NPL,Index of carbon stocks in forests,Index,104.711788763613,104.711788763613,104.711788763613,,
 Nepal,NPL,Share of forest area,Percent,41.5907220090687,41.5907220090687,41.5907220090687,41.5907220090687,41.5907220090687
 Oman,OMN,Carbon stocks in forests,Million tonnes,0.1671,0.1619,0.1619,,
 Oman,OMN,Forest area,1000 HA,2.6,2.5,2.5,2.4333,2.4111
+Oman,OMN,Index of carbon stocks in forests,Index,88.8829787234042,86.1170212765957,86.1170212765957,,
 Oman,OMN,Share of forest area,Percent,0.0084006462035541,0.0080775444264943,0.0080775444264943,0.0078620355411954,0.0077903069466882
 Pakistan,PAK,Carbon stocks in forests,Million tonnes,175.766,173.8581,171.9503,,
 Pakistan,PAK,Forest area,1000 HA,3808.58,3767.24,3725.9,3684.56,3643.22
+Pakistan,PAK,Index of carbon stocks in forests,Index,77.8582793801317,77.013145445074,76.1680558065694,,
 Pakistan,PAK,Share of forest area,Percent,4.94056143628061,4.88693441261934,4.83330738895807,4.7796803652968,4.72605334163553
 Philippines,PHL,Carbon stocks in forests,Million tonnes,920.9604,920.252,919.5644,,
 Philippines,PHL,Forest area,1000 HA,7118.81,7153.7,7188.59,7223.48,7258.37
+Philippines,PHL,Index of carbon stocks in forests,Index,98.185505021429,98.1099810230495,98.0366745559607,,
 Philippines,PHL,Share of forest area,Percent,23.8750041922393,23.9920179763222,24.1090317604051,24.226045544488,24.3430593285709
-Qatar,QAT,Carbon stocks in forests,Million tonnes,0.0,0.0,0.0,,
-Qatar,QAT,Forest area,1000 HA,0.0,0.0,0.0,0.0,0.0
-Qatar,QAT,Share of forest area,Percent,0.0,0.0,0.0,0.0,0.0
 Saudi Arabia,SAU,Carbon stocks in forests,Million tonnes,16.1889,16.1889,16.1889,,
 Saudi Arabia,SAU,Forest area,1000 HA,977.0,977.0,977.0,977.0,977.0
+Saudi Arabia,SAU,Index of carbon stocks in forests,Index,100.0,100.0,100.0,,
 Saudi Arabia,SAU,Share of forest area,Percent,0.454484134921779,0.454484134921779,0.454484134921779,0.454484134921779,0.454484134921779
 Singapore,SGP,Carbon stocks in forests,Million tonnes,1.2202,1.2065,1.1927,,
 Singapore,SGP,Forest area,1000 HA,15.93,15.75,15.57,15.39,15.21
+Singapore,SGP,Index of carbon stocks in forests,Index,133.779190878193,132.277162591821,130.764170595329,,
 Singapore,SGP,Share of forest area,Percent,22.3109243697479,21.9972067039106,21.6852367688022,21.4345403899721,21.1838440111421
 Sri Lanka,LKA,Carbon stocks in forests,Million tonnes,100.0328,99.8837,99.7134,,
 Sri Lanka,LKA,Forest area,1000 HA,2119.34,2116.18,2113.02,2109.86,2106.7
+Sri Lanka,LKA,Index of carbon stocks in forests,Index,91.5437637041836,91.4073167071158,91.2514687956425,,
 Sri Lanka,LKA,Share of forest area,Percent,34.2580499159447,34.2067102490331,34.1580989330747,34.1070158422244,34.0559327513741
 Syrian Arab Republic,SYR,Carbon stocks in forests,Million tonnes,15.9548,15.9495,15.9495,,
 Syrian Arab Republic,SYR,Forest area,1000 HA,522.08,522.08,522.08,522.08,522.08
+Syrian Arab Republic,SYR,Index of carbon stocks in forests,Index,135.975318742756,135.930149314788,135.930149314788,,
 Syrian Arab Republic,SYR,Share of forest area,Percent,2.84310842454937,2.84310842454937,2.84310842454937,2.84310842454937,2.81931537110257
 Thailand,THA,Carbon stocks in forests,Million tonnes,1657.0306,1653.8406,1650.8501,,
 Thailand,THA,Forest area,1000 HA,19945.0,19909.0,19873.0,19837.0,19801.0
+Thailand,THA,Index of carbon stocks in forests,Index,103.997764685585,103.797555426113,103.60986709055,,
 Thailand,THA,Share of forest area,Percent,39.0397150071444,38.9692497406487,38.8987844741529,38.8283192076572,38.7578539411615
 Timor-Leste,TLS,Carbon stocks in forests,Million tonnes,83.3727,83.2464,83.1201,,
 Timor-Leste,TLS,Forest area,1000 HA,923.9,922.5,921.1,919.7,918.3
+Timor-Leste,TLS,Index of carbon stocks in forests,Index,96.2094452297839,96.0636990450913,95.9179528603987,,
 Timor-Leste,TLS,Share of forest area,Percent,62.1318090114324,62.0376597175521,61.9435104236718,61.8493611297915,61.7552118359112
 Türkiye,TUR,Carbon stocks in forests,Million tonnes,703.6965,708.7072,713.718,,
 Türkiye,TUR,Forest area,1000 HA,21908.36,22064.36,22220.36,22376.36,22532.36
+Türkiye,TUR,Index of carbon stocks in forests,Index,160.245285583933,161.386318760132,162.527374708263,,
 Türkiye,TUR,Share of forest area,Percent,28.4660940971636,28.6687888985616,28.8714836999597,29.0741785013578,29.2768733027559
 Turkmenistan,TKM,Carbon stocks in forests,Million tonnes,11.7207,11.7207,11.7207,,
 Turkmenistan,TKM,Forest area,1000 HA,4127.0,4127.0,4127.0,4127.0,4127.0
+Turkmenistan,TKM,Index of carbon stocks in forests,Index,104.029573877,104.029573877,104.029573877,,
 Turkmenistan,TKM,Share of forest area,Percent,8.78215904496414,8.78215904496414,8.78215904496414,8.78215904496414,8.78215904496414
 United Arab Emirates,ARE,Carbon stocks in forests,Million tonnes,15.8777,15.8777,15.8777,,
 United Arab Emirates,ARE,Forest area,1000 HA,317.3,317.3,317.3,317.3,317.3
+United Arab Emirates,ARE,Index of carbon stocks in forests,Index,123.230057588128,123.230057588128,123.230057588128,,
 United Arab Emirates,ARE,Share of forest area,Percent,4.46775556181357,4.46775556181357,4.46775556181357,4.46775556181357,4.46775556181357
 Uzbekistan,UZB,Carbon stocks in forests,Million tonnes,119.0347,119.8802,120.7257,,
 Uzbekistan,UZB,Forest area,1000 HA,3637.98,3663.82,3689.66,3715.5,3741.34
+Uzbekistan,UZB,Index of carbon stocks in forests,Index,151.646992277176,152.724136437411,153.801280597646,,
 Uzbekistan,UZB,Share of forest area,Percent,8.25712061408984,8.31637366503615,8.37322137751049,8.43180461723851,8.49046413042492
 Viet Nam,VNM,Carbon stocks in forests,Million tonnes,542.2641,542.9192,546.1873,,
 Viet Nam,VNM,Forest area,1000 HA,14491.29,14567.19,14643.09,14718.99,14794.89
+Viet Nam,VNM,Index of carbon stocks in forests,Index,154.873084486105,155.060184015,155.99356818594,,
 Viet Nam,VNM,Share of forest area,Percent,46.2346815387217,46.4768416451573,46.7190017515929,46.9611618580284,47.203321964464
+World,WLD,Carbon stocks in forests,Million tonnes,294450.3036,294295.808,294135.6234,,
+World,WLD,Forest area,1000 HA,4068919.5142,4063830.76,4058917.72,4053892.7271,4048942.3738
+World,WLD,Index of carbon stocks in forests,Index,99.1586006560214,99.106572971498,99.0526294686778,,
